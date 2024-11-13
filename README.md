@@ -1,4 +1,4 @@
-# Benchmarking DeBERTa, DistilBERT, and RoBERTa for Sentiment Analysis
+# Deployment of the Model - Benchmarking DeBERTa, DistilBERT, and RoBERTa for Sentiment Analysis
 
 This repository contains a benchmark study of transformer models—DeBERTa, DistilBERT, RoBERTa, and a custom RoBERTa-GRU hybrid—for sentiment analysis on popular datasets including IMDB, Rotten Tomatoes, and SST-2. The project compares model performance against published papers, analyzes methodological differences, and suggests avenues for future improvement.
 
