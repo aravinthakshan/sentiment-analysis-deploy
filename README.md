@@ -2,15 +2,6 @@
 
 This repository contains a benchmark study of transformer models—DeBERTa, DistilBERT, RoBERTa, and a custom RoBERTa-GRU hybrid—for sentiment analysis on popular datasets including IMDB, Rotten Tomatoes, and SST-2. The project compares model performance against published papers, analyzes methodological differences, and suggests avenues for future improvement.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Background](#background)
-3. [Methodology](#methodology)
-4. [Datasets](#datasets)
-5. [Models](#models)
-6. [Results](#results)
-7. [Inferences and Insights](#inferences-and-insights)
-8. [References](#references)
 
 ## Introduction
 This project benchmarks DeBERTa, DistilBERT, RoBERTa, and a custom RoBERTa-GRU model for sentiment analysis. By comparing model performance on datasets of varying sizes, it highlights strengths, limitations, and potential improvements over existing methodologies.
