@@ -7,7 +7,7 @@ This repository contains a benchmark study of transformer models—DeBERTa, Dist
 This project benchmarks DeBERTa, DistilBERT, RoBERTa, and a custom RoBERTa-GRU model for sentiment analysis. By comparing model performance on datasets of varying sizes, it highlights strengths, limitations, and potential improvements over existing methodologies.
 
 ## Background
-The models used in this study—BERT and its derivatives, including DeBERTa, DistilBERT, and RoBERTa—have transformed Natural Language Processing by improving contextual understanding. Each variant brings enhancements in efficiency, accuracy, or model size, making them valuable tools for a range of NLP applications.
+The models used in this study—BERT and its derivatives, including DeBERTa, DistilBERT, and RoBERTa—have transformed Natural Language Processing by improving contextual understanding. Each variant brings enhancements in efficiency, accuracy, or model size, making them valuable tools for a range of NLP applications, it is also fully depoyable ( was previously hosted on ngrock -- vite )
 
 ## Methodology
 ### Experimental Setup
